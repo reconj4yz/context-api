@@ -8,7 +8,7 @@ import UserDetails from './compnents/UserDetails'
 const App = () => {
   return (
     <div>
-      <nav className='flex gap-10 justify-center mt-10'>
+      <nav className='flex gap-11 justify-center mt-11'>
         <Link to='/'>Home</Link>
         <Link to='/users'>Users</Link>
         <Link to='/about'>About</Link>
